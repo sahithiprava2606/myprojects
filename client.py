@@ -27,7 +27,7 @@ async def main():
 
         # 2. Setup the Model via OpenRouter
         model = ChatOpenAI(
-            api_key="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", 
+            api_key="Enter API key here", 
             base_url="https://openrouter.ai/api/v1",
             model="meta-llama/llama-3-8b-instruct"
         )
