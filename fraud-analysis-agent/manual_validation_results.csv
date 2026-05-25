@@ -1,0 +1,2 @@
+alert_id,amount,triggered_rules,human_label,agent_label,agent_confidence,ground_truth_is_fraud,ground_truth_pattern,human_matches_truth,agent_matches_truth,human_agent_agree
+ALERT_00052121,13.71,"velocity,geo_impossible,cnp_foreign",likely_fraud,likely_fraud,0.88,1,velocity,True,True,True
